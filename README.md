@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
+┈┈┈╭━━━━━╮┈┈┈┈┈
+┈┈┈┃┊┊┊┊┊┃┈┈┈┈┈
+┈┈┈┃┊┊╭━╮┻╮┈┈┈┈
+┈┈┈╱╲┊┃▋┃▋┃┈┈┈┈
+┈┈╭┻┊┊╰━┻━╮┈┈┈┈
+┈┈╰┳┊╭━━━┳╯┈┈┈┈
+┈┈┈┃┊┃╰━━┫┈ Goze
+┈┈┈┈┈┈┏━┓┈┈┈┈┈┈
+```
+
 I'm a developer~
 
-You can [concat me](goze.qiu@gmail.com) to discuss code~
+You can [concat me](mailto:goze.qiu@gmail.com) to discuss code~
 
 You can follow me on [Twitter](https://twitter.com/gozeonl)~
