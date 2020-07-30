@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ┈┈┈┈┈┈┏━┓┈┈┈┈┈┈
 ```
 
+![Gozeon's github stats](https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true&theme=radical)
+
 I'm a developer~
 
 You can [concat me](mailto:goze.qiu@gmail.com) to discuss code~
