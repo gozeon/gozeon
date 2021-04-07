@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```
 -->
 
-![Gozeon's github stats](https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true&theme=radical)
+![Gozeon's github stats](https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true)
 
 I'm a developer~
 
