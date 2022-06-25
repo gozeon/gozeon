@@ -33,3 +33,9 @@ I'm a developer~
 You can [concat me](mailto:goze.qiu@gmail.com) to discuss code~
 
 You can follow me on [Twitter](https://twitter.com/gozeonl)~
+
+身陷国企，无法自拔。
+
+始于热爱，陷于好奇，终于环境。
+
+Help me！
