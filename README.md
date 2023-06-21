@@ -25,7 +25,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa" />
 </a>
 
-
-无才可去补苍天，枉入红尘若许年 
-
-
