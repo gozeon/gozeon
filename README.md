@@ -1,32 +1,30 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1864F7&width=435&lines=Hi%2C+I'm+Goze.+I'm+a+developer.;I+need+work+from+home.;I+am+crazy+about+this+line.;%E6%97%A0%E6%89%8D%E5%8F%AF%E5%8E%BB%E8%A1%A5%E8%8B%8D%E5%A4%A9%EF%BC%8C%E6%9E%89%E5%85%A5%E7%BA%A2%E5%B0%98%E8%8B%A5%E8%AE%B8%E5%B9%B4)](https://git.io/typing-svg)
 
-<!--
-**gozeon/gozeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true" />
+</picture>
 
-Here are some ideas to get you started:
+![snake game](https://github.com/gozeon/gozeon/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake game](https://github.com/gozeon/gozeon/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-```
-┈┈┈╭━━━━━╮┈┈┈┈┈
-┈┈┈┃┊┊┊┊┊┃┈┈┈┈┈
-┈┈┈┃┊┊╭━╮┻╮┈┈┈┈
-┈┈┈╱╲┊┃▋┃▋┃┈┈┈┈
-┈┈╭┻┊┊╰━┻━╮┈┈┈┈
-┈┈╰┳┊╭━━━┳╯┈┈┈┈
-┈┈┈┃┊┃╰━━┫┈ Goze
-┈┈┈┈┈┈┏━┓┈┈┈┈┈┈
-```
--->
+<hr/>
 
-![Gozeon's github stats](https://github-readme-stats.vercel.app/api?username=gozeon&show_icons=true)
+<a href="https://github.com/gozeon/cheatsheets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=cheatsheets" />
+</a>
+<a href="https://github.com/gozeon/gmpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa" />
+</a>
+
 
 无才可去补苍天，枉入红尘若许年 
 
