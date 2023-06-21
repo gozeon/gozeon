@@ -19,9 +19,28 @@
 <hr/>
 
 <a href="https://github.com/gozeon/cheatsheets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=cheatsheets" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=cheatsheets&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=cheatsheets"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=cheatsheets" />
+  </picture>
 </a>
 <a href="https://github.com/gozeon/gmpa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa" />
+  </picture>
 </a>
-
