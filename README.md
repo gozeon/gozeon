@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E85F7&random=false&width=435&lines=Hi!+I+am+goze.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=5&color=0969DA&random=false&width=435&lines=Hi%2C+I+am+Goze!;%E5%BD%93%E4%BD%A0%E5%81%9C%E6%AD%A2%E5%88%9B%E9%80%A0%EF%BC%8C%E4%BD%A0%E7%9A%84%E6%89%8D%E8%83%BD%E5%B0%B1%E4%B8%8D%E5%86%8D%E9%87%8D%E8%A6%81;%E4%BD%A0%E6%89%80%E6%8B%A5%E6%9C%89%E7%9A%84%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BD%A0%E7%9A%84%E5%93%81%E5%91%B3;%E8%80%8C%E5%93%81%E5%91%B3%E4%BC%9A%E8%A3%B9%E6%8C%9F%E4%BD%A0%EF%BC%8C%E8%AE%A9%E4%BD%A0%E6%8E%92%E6%96%A5%E4%BB%96%E4%BA%BA%EF%BC%8C%E5%8F%98%E5%BE%97%E7%8B%AD%E9%9A%98;%E6%89%80%E4%BB%A5%EF%BC%8C%E8%A6%81%E5%88%9B%E9%80%A0!)](https://git.io/typing-svg)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
