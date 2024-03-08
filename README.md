@@ -48,3 +48,29 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=gmpa" />
   </picture>
 </a>
+<a href="https://github.com/gozeon/zxc">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=zxc&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=zxc"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=zxc" />
+  </picture>
+</a>
+<a href="https://github.com/gozeon/yapii">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=yapii&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=yapii"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gozeon&repo=yapii" />
+  </picture>
+</a>
